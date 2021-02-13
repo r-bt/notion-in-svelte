@@ -5,8 +5,6 @@
   if (text[1]) {
     classes = text[1].map((attr) => attr[0])
   }
-
-  console.log(classes)
 </script>
 
 <style>

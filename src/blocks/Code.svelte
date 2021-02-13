@@ -2,14 +2,14 @@
   export let code
   export let lang
 
-  import marked from 'marked'
-  import hljs from 'highlight.js'
+  import Prism from 'prismjs'
 
-  const { value: highlighted } = hljs.highlight(lang, code)
-  $: code = `<pre class='language-javascriptreact'><code>${highlighted}</code></pre>`
+  console.log(Prism.languages)
+
+  const html = Prism.highlight(code, Prism.languages[lang], lang)
 </script>
 
 <pre
   class="language-{lang}">
-    <code class="language-{lang}">{@html html}</code>
+  <code class="language-{lang}">{@html html}</code>
 </pre>

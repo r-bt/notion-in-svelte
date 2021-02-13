@@ -1,4 +1,2 @@
-import { fetchNotion } from './fetchNotion'
-import Notion from './Notion.svelte'
-
-export { fetchNotion, Notion }
+export { default as Notion } from './Notion.svelte'
+export { fetchNotion } from './fetchNotion'

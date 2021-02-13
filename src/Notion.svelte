@@ -24,7 +24,7 @@
   {:else if block.type === 'code'}
     <Code
       code="{block.properties.title[0][0]}"
-      lang="{block.properties.language[0][0]}"
+      lang="{block.properties.language[0][0].toLowerCase()}"
     />
   {/if}
 {/each}
