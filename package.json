@@ -1,10 +1,10 @@
 {
-  "name": "@leveluptuts/svelte-notion",
-  "author": "Scott Tolinski",
-  "version": "0.0.5",
-  "description": "Svelte Notion Helpers",
+  "name": "notion-in-svelte",
+  "author": "Scott Tolinski, Richard Beattie",
+  "version": "0.1.0",
+  "description": "Render Notion blocks in Svelte",
   "svelte": "src/index.js",
-  "repository": "leveluptuts/svelte-notion",
+  "repository": "r-bt/notion-in-svelte",
   "scripts": {
     "build": "rollup -c",
     "autobuild": "rollup -c -w",
