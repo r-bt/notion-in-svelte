@@ -1,4 +1,4 @@
-# Svelte Notion
+# ![alt text](https://github.com/r-bt/notion-in-svelte/blob/master/notion-in-svelte.png?raw=true) Svelte Notion
 
 ## @leveluptuts/svelte-notion
 
