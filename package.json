@@ -1,7 +1,7 @@
 {
   "name": "notion-in-svelte",
   "author": "Scott Tolinski, Richard Beattie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Render Notion blocks in Svelte",
   "svelte": "src/index.js",
   "repository": "r-bt/notion-in-svelte",
