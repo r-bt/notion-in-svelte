@@ -1,8 +1,7 @@
-# Svelte Notion
-
-## @leveluptuts/svelte-notion
-
-![Bboy Physicx](https://thumbs.gfycat.com/ParallelDismalBlackrussianterrier-size_restricted.gif)
+<p align="center" style="color: #343a40">
+  <img src="https://github.com/r-bt/notion-in-svelte/blob/master/notion-in-svelte.png?raw=true" height="150" width="150">
+  <h1 align="center">Notion-in-Svelte</h1>
+</p>
 
 [![NPM](https://img.shields.io/npm/v/@leveluptuts/svelte-notion?color=524763&logoColor=524763&style=for-the-badge)](https://www.npmjs.com/package/@leveluptuts/fresh)
 
