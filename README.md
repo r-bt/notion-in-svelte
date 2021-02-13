@@ -1,5 +1,3 @@
-<img src="" width="200px" height="200px"> 
-
 <p align="center" style="color: #343a40">
   <img src="https://github.com/r-bt/notion-in-svelte/blob/master/notion-in-svelte.png?raw=true" height="150" width="150">
   <h1 align="center">Notion-in-Svelte</h1>
